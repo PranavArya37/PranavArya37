@@ -1,37 +1,21 @@
 <h2 align="center">Hi there 🙋🏻, I'm Pranav Arya</h2>
-<img width="100%" height="396" alt="Untitled-2 (1)" src="https://github.com/user-attachments/assets/f82b0adf-6c34-4537-8350-efdd0063d85c" />
-
-<!--## Hi there 🙋🏻, I'm Pranav Arya
-
-**Thanks for stopping by my GitHub profile—it’s great to connect!**-->
-
-##
-
-<!-- In your terminal:-->
-For a quick summary of my profile, you can also try this command in your terminal: 
-```bash
-npx pranavarya
-```
-
-OR
-
-Visit - [WebShellXP](https://webshellxp.vercel.app/)
-
-<!--
-| In the terminal       | In the browser                                        |
-|-----------------------|-------------------------------------------------------|
-| `npx pranavarya`      | [WebShellXP](https://webshellxp.vercel.app/)         |
--->
-
-##
-
-### About Me
 
 I’m a Software Engineer from India. I build web & mobile applications, and I enjoy working with React, JavaScript, Java, Node.js, and React Native. I focus on writing clean, maintainable code, designing smooth user experiences, and learning new tools & architectures.
 
 Beyond coding, I like digging into systems design, exploring open source, and thinking about ways to grow — both as a developer and as a person.
 
 Apart from coding, I’m also an **astrophile**🌌, deeply passionate about space, stars, planets, and everything related to the universe.
+
+##
+
+For a quick summary of my profile, you can also try the command below in your terminal or visit [WebShellXP](https://webshellxp.vercel.app/): 
+```bash
+npx pranavarya
+```
+| In the terminal       | In the browser                                        |
+|-----------------------|-------------------------------------------------------|
+| `npx pranavarya`      | [WebShellXP](https://webshellxp.vercel.app/)         |
+##
 
 ### 🛠 Projects
 
