@@ -38,8 +38,7 @@ npx pranavarya
 
 ### 🚀 Pranav in Space
 As an **astrophile**, I’ve also created [Pranav in Space](https://pranavinspace.vercel.app/)
- — a personal site where I collect and share all the boarding passes provided by **NASA and other space agencies** for their missions that send our names into space. It’s my way of staying connected to the universe I love.
-
+ — a personal site where I share the digital boarding passes I’ve collected from **NASA and other space agencies.** These boarding passes are issued for missions that carry the names of registered participants on memory chips or other media, like the Parker Solar Probe that sent millions of names toward the Sun. It’s my way of staying connected to the universe I love.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
