@@ -50,8 +50,8 @@ As an **astrophile**, I’ve also created [Pranav in Space](https://pranavinspac
 <a href="https://fb.com/pranavarya2799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pranavarya2799" height="30" width="40" /></a>
 <a href="https://instagram.com/pranavarya37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranavarya37" height="30" width="40" /></a>
 <a href="https://hashnode.com/@pranavarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@pranavarya" height="30" width="40" /></a>
-<a href="https://medium.com/@pranavarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pranavarya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pranav_arya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pranav_arya" height="30" width="40" /></a>
+<a href="https://medium.com/@pranavarya37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pranavarya" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@pranav_arya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pranav_arya" height="30" width="40" /></a>
 </p>
 
 - 📫 How to reach me: [pranavarya2799@gmail.com](mailto:pranavarya2799@gmail.com)
