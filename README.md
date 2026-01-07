@@ -8,13 +8,13 @@ Apart from coding, I’m also an **astrophile**🌌, deeply passionate about spa
 
 ##
 
-For a quick summary of my profile, you can also try the command below in your terminal or visit [WebShellXP](https://webshellxp.vercel.app/): 
+For a quick summary of my profile, you can also try the command below in your terminal or visit [WebShellXP](https://webshell.pranavarya.in/): 
 ```bash
 npx pranavarya
 ```
 | In the terminal       | In the browser                                        |
 |-----------------------|-------------------------------------------------------|
-| `npx pranavarya`      | [WebShellXP](https://webshellxp.vercel.app/)         |
+| `npx pranavarya`      | [WebShellXP](https://webshell.pranavarya.in/)         |
 ##
 
 ### 🛠 Projects
@@ -37,7 +37,7 @@ npx pranavarya
 🕵 Take a look at my repositories and let's get in touch!
 
 ### 🚀 Pranav in Space
-As an **astrophile**, I’ve also created [Pranav in Space](https://pranavinspace.vercel.app/)
+As an **astrophile**, I’ve also created [Pranav in Space](https://space.pranavarya.in/)
  — a personal site where I share the digital boarding passes I’ve collected from **NASA and other space agencies.** These boarding passes are issued for missions that carry the names of registered participants on memory chips or other media, like the Parker Solar Probe that sent millions of names toward the Sun. It’s my way of staying connected to the universe I love.
 
 <h3 align="left">Connect with me:</h3>
