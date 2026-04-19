@@ -4,7 +4,7 @@ I’m a Software Engineer from India. I build web & mobile applications, and I e
 
 Beyond coding, I like digging into systems design, exploring open source, and thinking about ways to grow — both as a developer and as a person.
 
-Apart from coding, I’m also an **astrophile**🌌, deeply passionate about space, stars, planets, and everything related to the universe.
+Apart from coding, I’m also an **astrophile**🌌, deeply passionate about [space](https://space.pranavarya.in), stars, planets, and everything related to the universe.
 
 ##
 
